@@ -28,7 +28,7 @@ if __name__ == "__main__":
     print(s.romanToInt('MMMCCCXXXIII'))
 
 
-# Runtime: 176 ms
+# Runtime: 136 ms
 
 
 # Ⅰ（1）、Ⅴ（5）、Ⅹ（10）、Ⅼ（50）、Ⅽ（100）、Ⅾ（500）、Ⅿ（1000）
