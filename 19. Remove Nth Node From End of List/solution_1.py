@@ -33,7 +33,6 @@ class Solution:
 if __name__ == '__main__':
     s = Solution()
     head = ListNode(1)
-    head.next = ListNode(2)
     it = head
     for i in [2, 3, 4, 5]:
         it.next = ListNode(i)
